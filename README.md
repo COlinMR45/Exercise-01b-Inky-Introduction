@@ -2,11 +2,7 @@
 
 My name is:
 
-<<<<<<< HEAD
-Colin Mojica-Rodriguez
-=======
 Colin Mojica
->>>>>>> patch-2
 
 My github username is:
 
