@@ -81,4 +81,3 @@ You explain that centuries have passed and that his master is likely long died. 
 *[Go Back] -> cave_mouth
 
 -> END
-
