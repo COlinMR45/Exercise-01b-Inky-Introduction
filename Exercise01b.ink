@@ -3,6 +3,12 @@ This is a comment block. It won't be read as an Ink story.
 Comments are very useful for leaving ideas for story and functionalty
 
 This exercise will demonstrate the following in the example video:
+<<<<<<< HEAD
+=======
+ - Basic Choices
+ - Knot structure
+ - Recurring choices
+>>>>>>> origin/patch-3
  - Basic Choices*
  - Knot structure*
  - Recurring choices*
@@ -14,7 +20,11 @@ This exercise will demonstrate the following in the example video:
  - Add at least one more conditional
 */
 
+<<<<<<< HEAD
 
+=======
+This is our basic story example! Goodbye!
+>>>>>>> origin/patch-3
 -> cave_mouth
 
 == cave_mouth ==
@@ -79,5 +89,5 @@ You tell the statue on how you entered a cave that let you here. The statue seem
 == continued_talking ==
 You explain that centuries have passed and that his master is likely long died. The statue looks sad, but accepts it. He tell you to go back to the entrance and take the east entrance there you will find his master's treasue. You nod, thank him.
 *[Go Back] -> cave_mouth
-
 -> END
+
