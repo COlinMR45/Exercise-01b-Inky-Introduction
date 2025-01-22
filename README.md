@@ -2,7 +2,7 @@
 
 My name is:
 
-Colin Mojica
+Colin Mojica-Rodriguez
 
 My github username is:
 
